@@ -23,3 +23,5 @@ Here is a summary of all the features present in the dataset:
 * ```y```: The target variable, whether the client subscribed to a term deposit (binary: "yes", "no")
 
 I applied a linear model, decision tree, random forest and gradient boosting models to predict whether clients will subscribe to a term deposit using this data. 
+
+I achieved a final accuracy of 0.96.
