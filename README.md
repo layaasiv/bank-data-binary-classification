@@ -24,4 +24,4 @@ Here is a summary of all the features present in the dataset:
 
 I applied a linear model, decision tree, random forest and gradient boosting models to predict whether clients will subscribe to a term deposit using this data. 
 
-I achieved a final accuracy of 0.96.
+I achieved a final accuracy of 0.96 on the test set using the random forest model. 
